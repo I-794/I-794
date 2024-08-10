@@ -24,6 +24,7 @@ I'm currently working on themes for the Discord Client Bunny<br><br>I'm currentl
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3142lpejxvrlvih3mdgjsnuowy2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![](https://visitcount.itsvg.in/api?id=I-794&icon=0&color=0)](https://visitcount.itsvg.in)
 
