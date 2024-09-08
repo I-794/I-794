@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-794&label=Profile%20views&color=0e75b6&style=flat" alt="i-794" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Typescript**
+- 🌱 I’m currently learning **C, C++, Typescript, CSS, HTML, and Javascript**
 
 - 📫 How to reach me **cplichterman@proton.me**
 
