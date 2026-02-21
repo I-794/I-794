@@ -24,5 +24,24 @@ I am currently working on refining my skills<br>I'm currently learning C++, Swif
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/charlielichterman) 
 
-  
+  ### User Analysis: Charlie - GitHub Profile
+
+1. **Overall Activity, Skills, and Interests**
+    - Charlie, a student based in Wisconsin, is a beginner developer focusing on HTML 5, JavaScript, TypeScript, C, and C++.
+    - With 38 public repositories, 31 PRs, and 54 commits, Charlie demonstrates a passion for learning and contributing actively on GitHub.
+    - Developing themes and tools for various platforms and creating web applications form a chunk of Charlie's project involvement.
+
+2. **Coding Habits**
+    - Mainly utilizing HTML, JavaScript, CSS, Python, and TypeScript, Charlie's repository shows flexibility with various languages.
+    - Commits seem consistent and spread across repositories, suggesting regular engagement and persistence in programming tasks.
+
+3. **Project Contributions**
+    - Charlie has made direct or indirect contributions to 6 repositories, such as the SnapShot Pro tool and a themed project for Bunny widgets.
+    - Particularly noted is the GeoGebra-Classic-Forgot-Webview repository, where Charlie developed a workaround for using GeoGebra Classic on school chromebooks.
+
+4. **GitHub Presence**
+    - Having 15 followers and following 129 accounts implies a growing interest in the GitHub and open-source community.
+    - A total contribution count of 49 showcases engagement in different projects, ranging from personal repositories to collaborations.
+
+Overall, Charlie's GitHub activity demonstrates a diverse skill set, an eagerness to learn and contribute, and a balance between personal projects and collaborative endeavors. The engagement with themes, tools, and web applications suggests a knack for user interface development. To explore Charlie's projects further, you can view their [GitHub Profile](https://github.com/I-794) and some of their popular repositories like [BunnyThemes](https://github.com/I-794/BunnyThemes) and [SnapShot-Pro](https://github.com/I-794/SnapShot-Pro).
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
