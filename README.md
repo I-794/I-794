@@ -1,3 +1,5 @@
+
+
 # Hi 👋, I'm Charlie Lichterman
 
 ### An experienced Html developer
@@ -33,4 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I-794&show_icons=true&locale=en" alt="I-794" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-794&" alt="I-794" /></p>
+
+![](https://komarev.com/ghpvc/?username=I-794)
+
 
